@@ -107,11 +107,11 @@ This launches:
 
 ### Map Not Loading Issue
 
-**Problem:**  
+**Problem:**   
 The map file existed in the `testbed_bringup/maps` directory but failed to load during runtime.
-**Root Cause:**  
+**Root Cause:**   
 The `maps` folder was not installed via `CMakeLists.txt`, so it was not available in the package share directory.
-**Solution:**  
+**Solution:**   
 Added the maps directory to `CMakeLists.txt`:
 
 ### Other Challenges

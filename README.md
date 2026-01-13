@@ -109,8 +109,10 @@ This launches:
 
 **Problem:**   
 The map file existed in the `testbed_bringup/maps` directory but failed to load during runtime.
+
 **Root Cause:**   
 The `maps` folder was not installed via `CMakeLists.txt`, so it was not available in the package share directory.
+
 **Solution:**   
 Added the maps directory to `CMakeLists.txt`:
 

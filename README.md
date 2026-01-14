@@ -180,4 +180,5 @@ ros2 launch testbed_navigation complete.launch.py
 <img width="1845" height="1047" alt="Screenshot from 2026-01-13 23-44-39" src="https://github.com/user-attachments/assets/520d95d8-3eda-462b-8376-0ef2f8146cf9" />
 <img width="1845" height="1047" alt="Screenshot from 2026-01-13 23-47-01" src="https://github.com/user-attachments/assets/17b1a0ca-e487-4658-96c6-1bae2ed06640" />
 
+Robot performing localization and navigation video : https://drive.google.com/file/d/1gLpBWZCot82HEz6f8Cu_AdGIS3YZtwPk/view?usp=sharing
 ---

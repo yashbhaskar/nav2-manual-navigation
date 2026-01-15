@@ -1,4 +1,8 @@
-# nav2-manual-navigation
+# Level 1: ROS2 Navigation Assignment - Yash Bharat Bhaskar
+
+---
+
+## nav2-manual-navigation
 
 This repository demonstrates a manual ROS 2 Navigation (Nav2) workflow using modular plugins instead of nav2_bringup. It includes map loading, AMCL localization, planning, and navigation for the Testbed-T1.0.0 robot in Gazebo, showcasing clean launch design and plugin-based navigation architecture.
 
@@ -182,3 +186,8 @@ ros2 launch testbed_navigation complete.launch.py
 
 Robot performing localization and navigation video : https://drive.google.com/file/d/1gLpBWZCot82HEz6f8Cu_AdGIS3YZtwPk/view?usp=sharing
 ---
+
+## Contact Info
+- Name : Yash Bharat Bhaskar
+- Contact Number : +91 9022290396
+- Email Address : ybbhaskar19@gmail.com
